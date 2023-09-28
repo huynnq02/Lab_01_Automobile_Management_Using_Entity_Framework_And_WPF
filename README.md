@@ -34,4 +34,4 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository to your computer:
 
    ```bash
-   git clone [[https://github.com/yourusername/SE310-Lab1-Automobile-Management.git](https://github.com/huyy802/Lab_01_Automobile_Management_Using_Entity_Framework_And_WPF)](https://github.com/huyy802/Lab_01_Automobile_Management_Using_Entity_Framework_And_WPF)https://github.com/huyy802/Lab_01_Automobile_Management_Using_Entity_Framework_And_WPF
+   git clone https://github.com/huyy802/Lab_01_Automobile_Management_Using_Entity_Framework_And_WPF
