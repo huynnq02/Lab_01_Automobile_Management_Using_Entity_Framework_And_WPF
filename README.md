@@ -1,12 +1,6 @@
 # SE310.O11.PMCL - Lab 1: Automobile Management
 
-## Team Members
-- Nguyễn Lê Trọng Nhân (20521699)
-  - Email: 20521699@gm.uit.edu.vn
-
-- Hồ Vũ Minh Quang (20521802)
-  - Email: 20521802@gm.uit.edu.vn
-
+## Student
 - Nguyễn Ngọc Quang Huy (20521401)
   - Email: 20521401@gm.uit.edu.vn
 
