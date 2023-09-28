@@ -8,7 +8,7 @@
 This project is part of the SE310.O11.PMCL course at the University of Information Technology, VNU-HCM. The objective of this lab is to implement an Automobile Management system using Entity Framework and WPF (Windows Presentation Foundation).
 
 ## Project Description
-In this lab, we have developed an application that allows users to manage information about automobiles. The application is built using C#, Entity Framework for data access, and WPF for the user interface. It provides the following features:
+In this lab, I have developed an application that allows users to manage information about automobiles. The application is built using C#, Entity Framework for data access, and WPF for the user interface. It provides the following features:
 
 - Adding new automobile records.
 - Updating existing automobile records.
